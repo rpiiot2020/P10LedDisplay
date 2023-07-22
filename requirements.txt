@@ -2,3 +2,5 @@ Flask==2.3.2
 boto==2.49.0
 pyOpenSSL==23.2.0
 pyinstaller==5.13.0
+paho-mqtt==1.6.1
+waitress==2.1.2
