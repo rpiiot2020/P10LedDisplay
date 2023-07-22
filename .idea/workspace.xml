@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a09959a1-8404-4e1c-921c-2c3ebf573162" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/P10LedDisplay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/P10LedDisplay.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/localagent.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/localagent.log.2022-10-13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/localagent.log.2023-07-21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/localagent.log.2023-07-22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/mqtt.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/mqtt_listen.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/mqtt_listen.log.2022-10-13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/mqtt_listen.log.2022-10-18" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

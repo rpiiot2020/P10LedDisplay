@@ -1,4 +1,0 @@
-2022-10-19 11:38:14,419: [11136] :root:<module>:225  > CRITICAL: 
- --- Application finally ends. This is not really Critical. --- 
-
-2022-10-19 11:38:14,425: [11136] :root:<module>:228  > INFO: FINALLY: Program Ended

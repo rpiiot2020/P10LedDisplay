@@ -1,7 +1,0 @@
-2022-10-13 17:58:37,892: [20404] :root:main:161  > CRITICAL: 
- --- Application started & 'main' was called. This is not really Critical. --- 
-
-2022-10-13 19:19:01,644: [20404] :root:<module>:177  > CRITICAL: 
- --- Application finally ends. This is not really Critical. --- 
-
-2022-10-13 19:19:01,644: [20404] :root:<module>:180  > INFO: FINALLY: Program Ended
