@@ -1,0 +1,30 @@
+[Logging]
+# Optional for ending '/' in relative path. Do not include leading '/', unless from root directory.
+Log_Directory = logs/
+
+# Number of log file to rotate the log files. Similar to http://linuxcommand.org/man_pages/logrotate8.html
+Backup_Rotate_Count = 7
+
+# Default is INFO . See https://docs.python.org/3/library/logging.html#levels .
+Log_Level = INFO
+
+# To log to console when running in non-daemon mode set  to 1, else 0.
+Is_Log_To_Console = 1
+
+
+[LocalAgent]
+# env Staging or Production. for production will run with waitress
+Env = Production
+Port = 3000
+# Http 1 makes localagent listen to HTTP protocol
+# To enable HTTPS, change Http value to 0
+Http = 1
+# Set to 1 to run in Demo Mode to Bypass the Comms Module for certain commands & removes need for real Tickets.
+Demo_Mode = 0
+# White List (comma seperated) of IP Addresses of PNS App Services that are allowed to send certain commands.
+PNS_AppServices_IP_WhiteList = 35.162.219.50,10.0.75.1,127.0.0.1
+
+#Command = ipconfig /all
+Command = sudo python3 runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4
+Arg = 0
+

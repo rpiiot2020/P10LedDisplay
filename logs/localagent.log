@@ -1,0 +1,149 @@
+2023-07-23 00:40:52,382: [17608] :root:<module>:326  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 00:40:52,384: [17608] :root:<module>:329  > INFO: FINALLY: Program Ended
+2023-07-23 00:41:12,324: [6624] :root:main:282  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 00:41:12,324: [6624] :root:main:289  > INFO: PNS App Services IP Address White List:
+2023-07-23 00:41:12,324: [6624] :root:main:290  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1']
+2023-07-23 00:41:12,333: [6624] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 00:41:22,276: [22324] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 00:41:22,276: [22324] :root:sentled:153  > INFO: sentled
+2023-07-23 00:41:22,276: [22324] :root:sentled:155  > ERROR: sentled
+2023-07-23 00:41:22,276: [22324] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 00:42:08,926: [6624] :root:<module>:326  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 00:42:08,926: [6624] :root:<module>:329  > INFO: FINALLY: Program Ended
+2023-07-23 00:42:10,219: [14752] :root:main:282  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 00:42:10,219: [14752] :root:main:289  > INFO: PNS App Services IP Address White List:
+2023-07-23 00:42:10,220: [14752] :root:main:290  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1']
+2023-07-23 00:42:10,228: [14752] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 00:42:15,091: [20128] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 00:42:15,091: [20128] :root:sentled:153  > INFO: sentled
+2023-07-23 00:42:15,091: [20128] :root:sentled:155  > ERROR: sentled
+2023-07-23 00:42:15,091: [20128] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 00:43:54,260: [14752] :root:<module>:326  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 00:43:54,260: [14752] :root:<module>:329  > INFO: FINALLY: Program Ended
+2023-07-23 00:44:32,259: [9916] :root:main:282  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 00:44:32,259: [9916] :root:main:289  > INFO: PNS App Services IP Address White List:
+2023-07-23 00:44:32,259: [9916] :root:main:290  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1']
+2023-07-23 00:44:32,268: [9916] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 00:44:41,174: [10756] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 00:44:41,175: [10756] :root:sentled:153  > INFO: sentled
+2023-07-23 00:44:41,175: [10756] :root:sentled:155  > ERROR: sentled
+2023-07-23 00:44:41,175: [10756] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 00:45:52,863: [9916] :root:<module>:326  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 00:45:52,863: [9916] :root:<module>:329  > INFO: FINALLY: Program Ended
+2023-07-23 00:45:53,216: [19884] :root:main:282  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 00:45:53,216: [19884] :root:main:289  > INFO: PNS App Services IP Address White List:
+2023-07-23 00:45:53,216: [19884] :root:main:290  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1']
+2023-07-23 00:45:53,226: [19884] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 00:45:56,010: [26120] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 00:45:56,010: [26120] :root:sentled:153  > INFO: sentled
+2023-07-23 00:45:56,010: [26120] :root:sentled:155  > ERROR: sentled
+2023-07-23 00:45:56,010: [26120] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 00:59:15,559: [19884] :root:<module>:326  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 00:59:15,559: [19884] :root:<module>:329  > INFO: FINALLY: Program Ended
+2023-07-23 01:06:43,281: [15964] :root:main:282  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 01:06:43,281: [15964] :root:main:289  > INFO: PNS App Services IP Address White List:
+2023-07-23 01:06:43,281: [15964] :root:main:290  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1']
+2023-07-23 01:06:43,289: [15964] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 01:06:54,258: [18952] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 01:06:54,258: [18952] :root:sentled:153  > INFO: sentled
+2023-07-23 01:06:54,258: [18952] :root:sentled:155  > ERROR: sentled
+2023-07-23 01:06:54,258: [18952] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 01:06:54,268: [18952] :localagent:log_exception:1414 > ERROR: Exception on /sentled [GET]
+Traceback (most recent call last):
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "D:\apps\P10LedDisplay\localagent.py", line 183, in sentled
+    p = subprocess.run(commanddd, shell=True, check=True, capture_output=True, encoding='utf-8')
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command 'sudo python3 runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4' returned non-zero exit status 1.
+2023-07-23 01:07:20,745: [15964] :root:<module>:326  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 01:07:20,745: [15964] :root:<module>:329  > INFO: FINALLY: Program Ended
+2023-07-23 01:07:21,093: [16012] :root:main:282  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 01:07:21,093: [16012] :root:main:289  > INFO: PNS App Services IP Address White List:
+2023-07-23 01:07:21,093: [16012] :root:main:290  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1']
+2023-07-23 01:07:21,103: [16012] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 01:07:23,619: [24412] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 01:07:23,619: [24412] :root:sentled:153  > INFO: sentled
+2023-07-23 01:07:23,619: [24412] :root:sentled:155  > ERROR: sentled
+2023-07-23 01:07:23,619: [24412] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 01:07:23,619: [24412] :root:sentled:179  > INFO: sudo python3 runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4 --text1="hello" --text2="world"
+2023-07-23 01:07:23,627: [24412] :localagent:log_exception:1414 > ERROR: Exception on /sentled [GET]
+Traceback (most recent call last):
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "D:\apps\P10LedDisplay\localagent.py", line 183, in sentled
+    p = subprocess.run(commanddd, shell=True, check=True, capture_output=True, encoding='utf-8')
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command 'sudo python3 runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4 --text1="hello" --text2="world"' returned non-zero exit status 1.
+2023-07-23 01:09:26,911: [16012] :root:<module>:326  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 01:09:26,911: [16012] :root:<module>:329  > INFO: FINALLY: Program Ended
+2023-07-23 01:09:27,230: [7328] :root:main:283  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 01:09:27,230: [7328] :root:main:290  > INFO: PNS App Services IP Address White List:
+2023-07-23 01:09:27,230: [7328] :root:main:291  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1']
+2023-07-23 01:09:27,239: [7328] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 01:09:33,163: [23696] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 01:09:33,163: [23696] :root:sentled:153  > INFO: sentled
+2023-07-23 01:09:33,163: [23696] :root:sentled:155  > ERROR: sentled
+2023-07-23 01:09:33,163: [23696] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 01:09:33,163: [23696] :root:sentled:180  > INFO: sudo python3 runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4 --text="hello"
+2023-07-23 01:09:33,173: [23696] :localagent:log_exception:1414 > ERROR: Exception on /sentled [GET]
+Traceback (most recent call last):
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\apps\P10LedDisplayX\venv\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "D:\apps\P10LedDisplay\localagent.py", line 184, in sentled
+    p = subprocess.run(commanddd, shell=True, check=True, capture_output=True, encoding='utf-8')
+  File "C:\Users\PC\AppData\Local\Programs\Python\Python39\lib\subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command 'sudo python3 runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4 --text="hello"' returned non-zero exit status 1.
+2023-07-23 01:10:18,812: [7328] :root:<module>:327  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 01:10:18,812: [7328] :root:<module>:330  > INFO: FINALLY: Program Ended

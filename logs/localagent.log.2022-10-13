@@ -1,0 +1,114 @@
+2022-10-13 15:53:49,325: [17884] :root:main:289  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2022-10-13 15:53:49,325: [17884] :root:main:296  > INFO: PNS App Services IP Address White List:
+2022-10-13 15:53:49,326: [17884] :root:main:297  > INFO: ['35.162.219.50']
+2022-10-13 15:53:49,326: [17884] :root:<module>:329  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2022-10-13 15:53:49,326: [17884] :root:<module>:332  > INFO: FINALLY: Program Ended
+2022-10-13 15:55:30,862: [26676] :root:main:289  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2022-10-13 15:55:30,862: [26676] :root:main:296  > INFO: PNS App Services IP Address White List:
+2022-10-13 15:55:30,865: [26676] :root:main:297  > INFO: ['35.162.219.50']
+2022-10-13 15:55:30,892: [26676] :waitress:log_info:486  > INFO: Serving on http://10.0.75.1:5000
+2022-10-13 15:55:49,022: [26676] :root:<module>:329  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2022-10-13 15:55:49,022: [26676] :root:<module>:332  > INFO: FINALLY: Program Ended
+2022-10-13 15:57:38,330: [28624] :root:main:289  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2022-10-13 15:57:38,330: [28624] :root:main:296  > INFO: PNS App Services IP Address White List:
+2022-10-13 15:57:38,331: [28624] :root:main:297  > INFO: ['35.162.219.50']
+2022-10-13 15:57:38,337: [28624] :werkzeug:_log:224  > INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://10.0.75.1:5000
+2022-10-13 15:57:38,337: [28624] :werkzeug:_log:224  > INFO: [33mPress CTRL+C to quit[0m
+2022-10-13 15:57:48,011: [28624] :root:<module>:329  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2022-10-13 15:57:48,011: [28624] :root:<module>:332  > INFO: FINALLY: Program Ended
+2022-10-13 15:57:51,452: [1828] :root:main:289  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2022-10-13 15:57:51,452: [1828] :root:main:296  > INFO: PNS App Services IP Address White List:
+2022-10-13 15:57:51,452: [1828] :root:main:297  > INFO: ['35.162.219.50']
+2022-10-13 15:57:51,481: [1828] :waitress:log_info:486  > INFO: Serving on http://10.0.75.1:5000
+2022-10-13 15:59:06,053: [1828] :root:<module>:329  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2022-10-13 15:59:06,053: [1828] :root:<module>:332  > INFO: FINALLY: Program Ended
+2022-10-13 15:59:31,273: [7488] :root:main:263  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2022-10-13 15:59:31,273: [7488] :root:main:270  > INFO: PNS App Services IP Address White List:
+2022-10-13 15:59:31,273: [7488] :root:main:271  > INFO: ['35.162.219.50']
+2022-10-13 15:59:31,300: [7488] :waitress:log_info:486  > INFO: Serving on http://10.0.75.1:5000
+2022-10-13 15:59:37,320: [7488] :root:<module>:303  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2022-10-13 15:59:37,320: [7488] :root:<module>:306  > INFO: FINALLY: Program Ended
+2022-10-13 15:59:51,248: [6028] :root:main:263  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2022-10-13 15:59:51,249: [6028] :root:main:270  > INFO: PNS App Services IP Address White List:
+2022-10-13 15:59:51,249: [6028] :root:main:271  > INFO: ['35.162.219.50']
+2022-10-13 15:59:51,275: [6028] :waitress:log_info:486  > INFO: Serving on http://10.0.75.1:5000
+2022-10-13 15:59:54,301: [6028] :root:<module>:303  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2022-10-13 15:59:54,301: [6028] :root:<module>:306  > INFO: FINALLY: Program Ended
+2022-10-13 16:01:50,041: [18640] :root:main:263  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2022-10-13 16:01:50,041: [18640] :root:main:270  > INFO: PNS App Services IP Address White List:
+2022-10-13 16:01:50,041: [18640] :root:main:271  > INFO: ['35.162.219.50']
+2022-10-13 16:01:50,072: [18640] :waitress:log_info:486  > INFO: Serving on http://10.0.75.1:5000
+2022-10-13 16:02:00,139: [18640] :root:<module>:303  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2022-10-13 16:02:00,139: [18640] :root:<module>:306  > INFO: FINALLY: Program Ended
+2022-10-13 16:07:05,200: [27984] :root:main:262  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2022-10-13 16:07:05,201: [27984] :root:main:269  > INFO: PNS App Services IP Address White List:
+2022-10-13 16:07:05,201: [27984] :root:main:270  > INFO: ['35.162.219.50']
+2022-10-13 16:07:05,228: [27984] :waitress:log_info:486  > INFO: Serving on http://10.0.75.1:5000
+2022-10-13 16:07:07,955: [25288] :root:check_pns_whitelisted_ip:192  > WARNING: Rejected following IP not in the white list= 10.0.75.1
+2022-10-13 16:07:26,081: [27984] :root:<module>:302  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2022-10-13 16:07:26,081: [27984] :root:<module>:305  > INFO: FINALLY: Program Ended
+2022-10-13 16:07:27,176: [3704] :root:main:262  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2022-10-13 16:07:27,176: [3704] :root:main:269  > INFO: PNS App Services IP Address White List:
+2022-10-13 16:07:27,176: [3704] :root:main:270  > INFO: ['35.162.219.50', '10.0.75.1']
+2022-10-13 16:07:27,204: [3704] :waitress:log_info:486  > INFO: Serving on http://10.0.75.1:5000
+2022-10-13 16:07:29,855: [5408] :root:test_get:119  > INFO: --- test getttt ---
+2022-10-13 16:07:29,855: [5408] :root:test_get:120  > INFO: test log
+2022-10-13 16:07:29,855: [5408] :root:test_get:122  > ERROR: test log
+2022-10-13 16:07:29,856: [5408] :root:test_get:123  > CRITICAL: test log
+2022-10-13 16:23:45,641: [3704] :root:<module>:302  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2022-10-13 16:23:45,642: [3704] :root:<module>:305  > INFO: FINALLY: Program Ended
+2022-10-13 16:23:46,885: [27084] :root:main:292  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2022-10-13 16:23:46,886: [27084] :root:main:299  > INFO: PNS App Services IP Address White List:
+2022-10-13 16:23:46,886: [27084] :root:main:300  > INFO: ['35.162.219.50', '10.0.75.1']
+2022-10-13 16:27:04,668: [27084] :root:<module>:336  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2022-10-13 16:27:04,669: [27084] :root:<module>:339  > INFO: FINALLY: Program Ended
+2022-10-13 16:27:05,077: [23956] :root:main:293  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2022-10-13 16:27:05,077: [23956] :root:main:300  > INFO: PNS App Services IP Address White List:
+2022-10-13 16:27:05,077: [23956] :root:main:301  > INFO: ['35.162.219.50', '10.0.75.1']
+2022-10-13 23:48:07,530: [23956] :root:<module>:337  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2022-10-13 23:48:07,535: [23956] :root:<module>:340  > INFO: FINALLY: Program Ended

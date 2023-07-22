@@ -1,0 +1,3 @@
+2022-10-18 11:39:40,671: [11136] :root:main:200  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
