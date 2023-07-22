@@ -1,0 +1,154 @@
+2023-07-23 01:58:22,582: [3069726736] :root:main:283  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 01:58:22,582: [3069726736] :root:main:290  > INFO: PNS App Services IP Address White List:
+2023-07-23 01:58:22,583: [3069726736] :root:main:291  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1']
+2023-07-23 01:58:22,615: [3069726736] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 01:58:32,330: [3069726736] :root:<module>:328  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 01:58:32,332: [3069726736] :root:<module>:330  > INFO: FINALLY: Program Ended
+2023-07-23 01:58:36,987: [3070021648] :root:main:283  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 01:58:36,988: [3070021648] :root:main:290  > INFO: PNS App Services IP Address White List:
+2023-07-23 01:58:36,988: [3070021648] :root:main:291  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1']
+2023-07-23 01:58:37,021: [3070021648] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 01:59:10,378: [3038504032] :root:check_pns_whitelisted_ip:211  > WARNING: Rejected following IP not in the white list= 192.168.1.68
+2023-07-23 01:59:20,214: [3070021648] :root:<module>:328  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 01:59:20,216: [3070021648] :root:<module>:330  > INFO: FINALLY: Program Ended
+2023-07-23 02:00:05,910: [3070119952] :root:main:283  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 02:00:05,911: [3070119952] :root:main:290  > INFO: PNS App Services IP Address White List:
+2023-07-23 02:00:05,911: [3070119952] :root:main:291  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1', '192.168.1.68']
+2023-07-23 02:00:05,943: [3070119952] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 02:00:08,497: [3038602336] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 02:00:08,498: [3038602336] :root:sentled:153  > INFO: sentled
+2023-07-23 02:00:08,498: [3038602336] :root:sentled:155  > ERROR: sentled
+2023-07-23 02:00:08,499: [3038602336] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 02:00:08,501: [3038602336] :flask.app:log_exception:1761 > ERROR: Exception on /sentled [GET]
+Traceback (most recent call last):
+  File "flask/app.py", line 2292, in wsgi_app
+  File "flask/app.py", line 1815, in full_dispatch_request
+  File "flask/app.py", line 1718, in handle_user_exception
+  File "flask/_compat.py", line 35, in reraise
+  File "flask/app.py", line 1813, in full_dispatch_request
+  File "flask/app.py", line 1799, in dispatch_request
+  File "localagent.py", line 167, in sentled
+  File "base64.py", line 80, in b64decode
+  File "base64.py", line 46, in _bytes_from_decode_data
+TypeError: argument should be a bytes-like object or ASCII string, not 'NoneType'
+2023-07-23 02:00:41,873: [3028284512] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 02:00:41,875: [3028284512] :root:sentled:153  > INFO: sentled
+2023-07-23 02:00:41,876: [3028284512] :root:sentled:155  > ERROR: sentled
+2023-07-23 02:00:41,878: [3028284512] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 02:00:41,884: [3028284512] :flask.app:log_exception:1761 > ERROR: Exception on /sentled [GET]
+Traceback (most recent call last):
+  File "flask/app.py", line 2292, in wsgi_app
+  File "flask/app.py", line 1815, in full_dispatch_request
+  File "flask/app.py", line 1718, in handle_user_exception
+  File "flask/_compat.py", line 35, in reraise
+  File "flask/app.py", line 1813, in full_dispatch_request
+  File "flask/app.py", line 1799, in dispatch_request
+  File "localagent.py", line 168, in sentled
+  File "base64.py", line 87, in b64decode
+binascii.Error: Invalid base64-encoded string: number of data characters (5) cannot be 1 more than a multiple of 4
+2023-07-23 02:01:33,037: [3017798752] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 02:01:33,038: [3017798752] :root:sentled:153  > INFO: sentled
+2023-07-23 02:01:33,039: [3017798752] :root:sentled:155  > ERROR: sentled
+2023-07-23 02:01:33,039: [3017798752] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 02:01:33,197: [3017798752] :flask.app:log_exception:1761 > ERROR: Exception on /sentled [GET]
+Traceback (most recent call last):
+  File "flask/app.py", line 2292, in wsgi_app
+  File "flask/app.py", line 1815, in full_dispatch_request
+  File "flask/app.py", line 1718, in handle_user_exception
+  File "flask/_compat.py", line 35, in reraise
+  File "flask/app.py", line 1813, in full_dispatch_request
+  File "flask/app.py", line 1799, in dispatch_request
+  File "localagent.py", line 184, in sentled
+  File "subprocess.py", line 487, in run
+subprocess.CalledProcessError: Command 'sudo python3 runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4' returned non-zero exit status 2.
+2023-07-23 02:01:50,013: [3070119952] :root:<module>:328  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 02:01:50,015: [3070119952] :root:<module>:330  > INFO: FINALLY: Program Ended
+2023-07-23 02:01:59,307: [3070001168] :root:main:283  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 02:01:59,308: [3070001168] :root:main:290  > INFO: PNS App Services IP Address White List:
+2023-07-23 02:01:59,308: [3070001168] :root:main:291  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1', '192.168.1.68']
+2023-07-23 02:01:59,341: [3070001168] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 02:02:02,983: [3038483552] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 02:02:02,983: [3038483552] :root:sentled:153  > INFO: sentled
+2023-07-23 02:02:02,984: [3038483552] :root:sentled:155  > ERROR: sentled
+2023-07-23 02:02:02,985: [3038483552] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 02:02:03,127: [3038483552] :flask.app:log_exception:1761 > ERROR: Exception on /sentled [GET]
+Traceback (most recent call last):
+  File "flask/app.py", line 2292, in wsgi_app
+  File "flask/app.py", line 1815, in full_dispatch_request
+  File "flask/app.py", line 1718, in handle_user_exception
+  File "flask/_compat.py", line 35, in reraise
+  File "flask/app.py", line 1813, in full_dispatch_request
+  File "flask/app.py", line 1799, in dispatch_request
+  File "localagent.py", line 184, in sentled
+  File "subprocess.py", line 487, in run
+subprocess.CalledProcessError: Command 'sudo python3 runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4' returned non-zero exit status 2.
+2023-07-23 02:02:20,327: [3070001168] :root:<module>:328  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 02:02:20,328: [3070001168] :root:<module>:330  > INFO: FINALLY: Program Ended
+2023-07-23 02:04:48,176: [3069804560] :root:main:283  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 02:04:48,177: [3069804560] :root:main:290  > INFO: PNS App Services IP Address White List:
+2023-07-23 02:04:48,178: [3069804560] :root:main:291  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1', '192.168.1.68']
+2023-07-23 02:04:48,210: [3069804560] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 02:04:51,444: [3038286944] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 02:04:51,445: [3038286944] :root:sentled:153  > INFO: sentled
+2023-07-23 02:04:51,445: [3038286944] :root:sentled:155  > ERROR: sentled
+2023-07-23 02:04:51,446: [3038286944] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 02:04:51,448: [3038286944] :root:sentled:180  > INFO: sudo python3 /home/admin/rpi-rgb-led-matrix/bindings/python/samples/runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4 --text="hello"
+2023-07-23 02:04:51,589: [3038286944] :flask.app:log_exception:1761 > ERROR: Exception on /sentled [GET]
+Traceback (most recent call last):
+  File "flask/app.py", line 2292, in wsgi_app
+  File "flask/app.py", line 1815, in full_dispatch_request
+  File "flask/app.py", line 1718, in handle_user_exception
+  File "flask/_compat.py", line 35, in reraise
+  File "flask/app.py", line 1813, in full_dispatch_request
+  File "flask/app.py", line 1799, in dispatch_request
+  File "localagent.py", line 184, in sentled
+  File "subprocess.py", line 487, in run
+subprocess.CalledProcessError: Command 'sudo python3 /home/admin/rpi-rgb-led-matrix/bindings/python/samples/runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4 --text="hello"' returned non-zero exit status 2.
+2023-07-23 02:05:05,039: [3069804560] :root:<module>:328  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 02:05:05,041: [3069804560] :root:<module>:330  > INFO: FINALLY: Program Ended
+2023-07-23 02:05:20,206: [3069239312] :root:main:283  > CRITICAL: 
+ --- Application started & 'main' was called. This is not really Critical. --- 
+
+2023-07-23 02:05:20,207: [3069239312] :root:main:290  > INFO: PNS App Services IP Address White List:
+2023-07-23 02:05:20,207: [3069239312] :root:main:291  > INFO: ['35.162.219.50', '10.0.75.1', '127.0.0.1', '192.168.1.68']
+2023-07-23 02:05:20,239: [3069239312] :waitress:log_info:486  > INFO: Serving on http://0.0.0.0:3000
+2023-07-23 02:05:22,625: [3037721696] :root:sentled:152  > INFO: --- sentled ---
+2023-07-23 02:05:22,627: [3037721696] :root:sentled:153  > INFO: sentled
+2023-07-23 02:05:22,627: [3037721696] :root:sentled:155  > ERROR: sentled
+2023-07-23 02:05:22,628: [3037721696] :root:sentled:156  > CRITICAL: sentled
+2023-07-23 02:05:22,630: [3037721696] :root:sentled:180  > INFO: sudo python3 /home/pi/rpi-rgb-led-matrix/bindings/python/samples/runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4 --text="hello"
+2023-07-23 02:05:22,930: [3037721696] :flask.app:log_exception:1761 > ERROR: Exception on /sentled [GET]
+Traceback (most recent call last):
+  File "flask/app.py", line 2292, in wsgi_app
+  File "flask/app.py", line 1815, in full_dispatch_request
+  File "flask/app.py", line 1718, in handle_user_exception
+  File "flask/_compat.py", line 35, in reraise
+  File "flask/app.py", line 1813, in full_dispatch_request
+  File "flask/app.py", line 1799, in dispatch_request
+  File "localagent.py", line 184, in sentled
+  File "subprocess.py", line 487, in run
+subprocess.CalledProcessError: Command 'sudo python3 /home/pi/rpi-rgb-led-matrix/bindings/python/samples/runtext.py --led-rows=64 --led-cols=64  --led-slowdown-gpio=4 --text="hello"' returned non-zero exit status 1.
+2023-07-23 02:05:46,488: [3069239312] :root:<module>:328  > CRITICAL: 
+ --- Application finally ends. This is not really Critical. --- 
+
+2023-07-23 02:05:46,489: [3069239312] :root:<module>:330  > INFO: FINALLY: Program Ended
